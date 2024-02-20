@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\bin\Debug\net8.0-windows\Mystery Gifts.exe
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\bin\Debug\net8.0-windows\Mystery Gifts.deps.json
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\bin\Debug\net8.0-windows\Mystery Gifts.runtimeconfig.json
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\bin\Debug\net8.0-windows\Mystery Gifts.dll
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\bin\Debug\net8.0-windows\Mystery Gifts.pdb
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery_Gifts.Form1.resources
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery Gifts.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery Gifts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery Gifts.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery Gifts.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery Gifts.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery Gifts.dll
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\refint\Mystery Gifts.dll
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery Gifts.pdb
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery Gifts.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\ref\Mystery Gifts.dll
