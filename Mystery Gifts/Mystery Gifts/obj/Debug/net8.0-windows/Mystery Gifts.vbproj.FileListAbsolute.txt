@@ -14,3 +14,4 @@ C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8
 C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery Gifts.pdb
 C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery Gifts.genruntimeconfig.cache
 C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\ref\Mystery Gifts.dll
+C:\Users\ihsaa\Projects\mystery-gifts\Mystery Gifts\Mystery Gifts\obj\Debug\net8.0-windows\Mystery Gifts.sourcelink.json
